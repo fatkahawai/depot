@@ -1,7 +1,24 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
 
+one:
+  title: oneone
+  description: 
+      blah blah blah
+      yadiyadiyah
+  image_url: ipso.jpg
+  price: 49.99
+
+two:
+  title: twotwo
+  description: 
+    blah blah blah
+    yadiyadiyah
+  image_url: ipso.jpg
+  price: 19.00
+
+
 ruby:
-  title: Programming
+  title: Programming Ruby 1.9
   description: 
       blah blah blah
       yadiyadiyah
